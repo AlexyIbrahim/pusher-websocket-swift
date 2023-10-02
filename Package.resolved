@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/AlexyIbrahim/NWWebSocket.git",
         "state": {
           "branch": null,
-          "revision": "19d23951c8099304ad98e2fc762fa23d6bfab0b9",
-          "version": "0.5.3"
+          "revision": "ac77b24a830bb5dd416beb3b6638b124db0fc354",
+          "version": "0.5.5"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/AlexyIbrahim/tweetnacl-swiftwrap.git",
         "state": {
           "branch": null,
-          "revision": "3aac25fb7ff1cb565b2c636fd2b91a8a7959e1a7",
-          "version": "1.1.1"
+          "revision": "ac66901c4f34240e8a93a4742a7d0f5188119055",
+          "version": "1.1.4"
         }
       }
     ]
