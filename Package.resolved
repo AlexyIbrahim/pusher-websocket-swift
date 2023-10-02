@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "NWWebSocket",
-        "repositoryURL": "https://github.com/pusher/NWWebSocket.git",
+        "repositoryURL": "https://github.com/AlexyIbrahim/NWWebSocket.git",
         "state": {
           "branch": null,
           "revision": "19d23951c8099304ad98e2fc762fa23d6bfab0b9",
@@ -12,11 +12,11 @@
       },
       {
         "package": "TweetNacl",
-        "repositoryURL": "https://github.com/bitmark-inc/tweetnacl-swiftwrap",
+        "repositoryURL": "https://github.com/AlexyIbrahim/tweetnacl-swiftwrap.git",
         "state": {
           "branch": null,
-          "revision": "d1552db4d907f2c5cb3d1bf1336496b2e16c8ecf",
-          "version": "1.0.2"
+          "revision": "3aac25fb7ff1cb565b2c636fd2b91a8a7959e1a7",
+          "version": "1.1.1"
         }
       }
     ]
